@@ -1,0 +1,24 @@
+{
+  "name": "qiuhun",
+  "version": "1.0.0",
+  "description": "这是一个求婚用的web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangdezhi/qiuhun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangdezhi/qiuhun/issues"
+  },
+  "homepage": "https://github.com/tangdezhi/qiuhun#readme",
+  "devDependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3"
+  }
+}
